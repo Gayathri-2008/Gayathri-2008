@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gayathri! 👋
 
-<!--
-**Gayathri-2008/Gayathri-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science Engineering Student  
+💻 Aspiring Software Engineer | C++ Programmer in Progress
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🔭 Currently learning C++ and problem-solving
+- 🧠 Exploring Data Structures and Algorithms
+- 🛠️ Interested in software development and technology
+- 🎯 Working towards becoming a skilled software engineer
+- 🎵 Fun fact: I love singing and listening to music!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** C++ (Learning)
+- **Tools:** Git, GitHub, VS Code
+
+## 📌 Goals
+- Strengthen my programming fundamentals
+- Practice coding problems regularly
+- Build projects and learn new technologies
+
+## 🤝 Let's Connect
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+✨ *Learning, building, and improving one step at a time.*
